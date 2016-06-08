@@ -16,6 +16,7 @@ Come learn how to stop thinking in pixels and embrace CSS’s late binding of st
 
 
 ## Notes
+* This is basically Chapter 2 from CSS in Depth
 Theme for slides: 80s video games, pixel-y graphics. Use pixelated font (“Press Start 2P”)
 
 Related mini tweetstorm: https://twitter.com/keithjgrant/status/728670046713720832

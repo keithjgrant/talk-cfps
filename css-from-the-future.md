@@ -13,4 +13,13 @@ In this talk, I’ll show you how all these features work. And I’ll show you h
 
 
 ## Notes
+Covers:
+* Custom properties
+* Selector nesting
+* @apply
+* calc()
+* color()
+* Possibly @scope ?
+* PostCSS+cssnext - this is not a "PostCSS" talk; the thrust is a focus on the future syntax & features listed above, but I will touch on using PostCSS to start using those features now
+
 Theme for slides: Bill & Ted
