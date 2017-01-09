@@ -9,10 +9,9 @@ Come learn how to stop thinking in pixels and embrace CSS’s late binding of st
 
 
 ## Submitted to:
-* ConnectJS 2016
-* CSS Conf 2016
-* CSSDevConf 2016
-* Thunder Plains 2016
+* ConnectJS 2016 (not accepted; CSS From the Future accepted instead)
+* CSS Conf 2016 (accepted)
+* CSSDevConf 2016 (accepted)
 
 
 ## Notes
