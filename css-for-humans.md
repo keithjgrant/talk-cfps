@@ -1,7 +1,7 @@
-# There is no “I” in CSS
+# CSS for Humans
 
 other title ideas:
-* CSS for Humans
+* There is No “I” in CSS
 
 ## Description
 In this talk we will explore the confluence of best practices, how CSS fits into overall system architecture, and communication and coordination with your team. I’ll share some real-world experience and show you how to approach development in a way that works for the CSS-adept as well as CSS-averse developers on your team.
