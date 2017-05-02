@@ -5,3 +5,4 @@ These are just my notes & abstracts for various talks of mine. Some of these are
 My current favorites:
 * [Stop Thinking in Pixels](stop-thinking-in-pixels.md)
 * [CSS from the Future](css-from-the-future.md)
+* [The Decentralized Social Web](the-decentralized-social-web.md)
