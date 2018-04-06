@@ -26,6 +26,7 @@ In this talk we will explore the confluence of these best practices, how CSS fit
 ## Submitted to:
 * Fluent Conf 2017
 * CSSConf EU 2017
+* CSS Dev Conf 2017
 
 
 ## Misc notes

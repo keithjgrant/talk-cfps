@@ -12,3 +12,5 @@ Today’s social networks are a stopgap. A better way lies ahead, built on Webme
 
 ## Submitted to:
 * Fluent Conf 2017
+* CSS Dev Conf 2017
+* Connect Tech 2017 (accepted)
